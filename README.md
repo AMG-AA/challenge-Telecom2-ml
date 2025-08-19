@@ -1,8 +1,12 @@
-
 <h1 align="center">📊 Predicción de Cancelación de Clientes (Churn) en Telecomunicaciones</h1>
+<p align="center">
+  <img width="720" alt="Alura+Oracle" src="https://github.com/user-attachments/assets/1701b8a4-43b5-4bae-9c09-8844db845484" />
+</p>
+
+<p align="center"><i>Proyecto desarrollado en el programa Alura + Oracle</i></p>
 
 <p align="center">
-<b>Proyecto de Machine Learning para la predicción de churn en una empresa de telecomunicaciones</b>
+<b>Proyecto de Machine Learning para la predicción de churn en la empresa de telecomunicaciones Telcom X</b>
 </p>
 
 ---
@@ -78,6 +82,11 @@ python -m venv venv
 2. Usa los scripts de `src/` para automatizar tareas de preprocesamiento y entrenamiento.
 3. Los resultados y gráficos se guardan automáticamente en la carpeta `reports/`.
 
+   
+**❗ Asegúrese de leer esto.**
+
+> 💡 **Recordatorio: El archivo `Challenge_TelcomX_2.ipynb` no es solo un script; incluye informe final interactivo que contiene toda la documentación y las conclusiones detalladas. Este README solo contiene un resumen.**
+
 ---
 
 ## 📊 Ejemplo de Uso
@@ -127,8 +136,9 @@ Consulta `requirements.txt` para la lista completa.
 ## 📂 Créditos
 
 - Autor: AMG-AA
-- Datos: [Fuente pública de telecomunicaciones](https://www.kaggle.com/blastchar/telco-customer-churn) (o la fuente que corresponda)
+- Datos: [ALURA Latama](https://www.aluracursos.com/)
 - Inspiración: Oracle Next Education
+- Contacto [LinkedIn](http://www.linkedin.com/in/aaron-martinez-garcia)
 
 ---
 
