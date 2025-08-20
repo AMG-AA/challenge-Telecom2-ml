@@ -36,7 +36,6 @@ data/raw/
 data/processed/
 
 # Reports and outputs
-reports/*.png
 reports/*.csv
 src/*.png
 
