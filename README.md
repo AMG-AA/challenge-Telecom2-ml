@@ -33,7 +33,7 @@
 	<tr>
 		<td align="center"><img src="reports/matrices_confusion_modelos.png" width="300"/><br>Matriz de Confusión</td>
 		<td align="center"><img src="reports/matriz_correlacion_variables.png" width="300"/><br>Correlacion de Variables</td>
-		<td align="center"><img src="reports/proporcion_churn-SMOTE.png" width="300"/><br>Distribución Churn</td>
+		<td align="center"><img src="reports/recall_por_umbral.png" width="300"/><br>Recall por Umbral</td>
 	</tr>
 </table>
 
